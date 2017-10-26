@@ -1,0 +1,8 @@
+package project
+
+modules = Project
+	, Library
+
+main = Project
+executable = project
+
